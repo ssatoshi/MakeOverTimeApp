@@ -1,0 +1,6 @@
+@home_dir = "."
+@app_file = "#{@home_dir}/appvalue.json"
+@template_file = "#{@home_dir}/template/_template_20160829_2.xls"
+@sheet_name = "Sheet"
+@output_dir = "#{@home_dir}"
+@output_xls_file = "%Y%m%d_AAA.xls"
